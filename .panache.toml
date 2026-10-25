@@ -1,0 +1,5 @@
+# Formatting style
+[format]
+wrap = "reflow"
+line-width = 240
+line-ending = "auto"
